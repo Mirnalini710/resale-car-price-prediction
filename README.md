@@ -1,2 +1,2 @@
-# resale-car-price-prediction
- predicting the price of resale car
+# Resale car price prediction
+ predicting the price of a car based on featrues
